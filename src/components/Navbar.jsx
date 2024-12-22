@@ -14,8 +14,8 @@ const Navbar = () => {
 
         <div style={{ display: "flex", gap:"30px", marginTop: "20px" }}>
           <a href="/home" style={{textDecoration:'none', fontWeight:'600', fontSize:"18px", color:"black"}}>Menu</a>
-          <a href="/home" style={{textDecoration:'none',  fontWeight:"600", fontSize:"18px", color:"black" }}>Location</a>
-          <a href="/home" style={{textDecoration:'none' ,fontWeight:"600", fontSize:"18px", color:"black"}}>About</a>
+          <a href="/home" style={{textDecoration:'none',  fontWeight:"600", fontSize:"18px", color:"black" }}>TUSHAR</a>
+          <a href="/home" style={{textDecoration:'none' ,fontWeight:"600", fontSize:"18px", color:"black"}}>TYAGI</a>
           <a href="/home" style={{textDecoration:'none', fontWeight:"600", fontSize:"18px", color:"black"}}>Contact</a>
         </div>
 
